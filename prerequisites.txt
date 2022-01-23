@@ -1,0 +1,5 @@
+--------------------------------------------------------------Pre-requisites----------------------------------------------------------------------
+
+- Python 3.8 or 3.9
+- A code editor like Visual Studio Code
+- Minimum knowledge about programming
